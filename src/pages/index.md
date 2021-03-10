@@ -5,7 +5,7 @@ sections:
     title: 'Hi, i am Elijah Bassey a full stack  software developer.'
     subtitle: >-
       I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      and digital website for you, at an affordable price.
     actions:
       - label: Contact Me
         url: /contact
