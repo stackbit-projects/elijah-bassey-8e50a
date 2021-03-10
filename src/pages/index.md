@@ -53,7 +53,7 @@ sections:
         media_width: sixty
         subtitle: >-
           responsive web designs using tools like bootstrap to deliver device
-          responsive 
+          responsive websites
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
