@@ -5,7 +5,6 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Personal Theme",
         "logo": "images/icons8-paste-64.png",
         "logo_alt": "Alyvia logo",
         "has_primary_nav": true,
