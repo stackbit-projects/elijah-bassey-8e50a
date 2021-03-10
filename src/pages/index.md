@@ -19,7 +19,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image: images/hero.png
+    image: images/facebbok.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
