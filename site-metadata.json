@@ -26,7 +26,8 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "title": "TRAX"
     },
     "footer": {
         "logo": "images/logo.svg",
