@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, i am Elijah Bassey a full stack web developer and '
+    title: 'Hi, i am Elijah Bassey a full stack web developer and soft'
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
