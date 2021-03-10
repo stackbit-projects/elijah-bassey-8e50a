@@ -51,6 +51,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
+        subtitle: 'responsive web designs using tools like bootstrap to deliver '
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
