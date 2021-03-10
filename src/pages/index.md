@@ -20,7 +20,6 @@ sections:
         no_follow: false
         type: action
     image: images/facebbok.jpg
-    image_alt: A smiling woman
     media_position: right
     media_width: fifty
     align: left
